@@ -2,8 +2,8 @@
 
 ### 👥 Integrantes del grupo
 - **Kevin Segura**
-- **Juan David Vélez**
-- **Juan Bogotá**
+- **Juan Pablo Vélez**
+- **Juan Daniel Bogotá**
 
 ## Descripción
 
